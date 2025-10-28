@@ -1,0 +1,1 @@
+Open the Password Checker Tool(kasperkey password checker tool). Create Multiple Passwords. Include Different Character Types. Test Each Password. Record Your Observations. Analyze Best Practices. Research Password Attacks. in the last summarize your findings.
